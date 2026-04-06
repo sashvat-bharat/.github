@@ -6,7 +6,7 @@ Sashvat Bharat is a tech organization focused on building **Productivity Apps**,
 
 ---
 
-### Core Project:
+### Core Projects:
 
 - **JIT Tool Protocol**: Dynamic system prompt and tool loading architecture.
 - **Model Accelerator**: The fastest, most efficient library for running GGUF models with maximum throughput and zero-config hardware optimization.
